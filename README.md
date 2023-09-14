@@ -1,4 +1,13 @@
-Репозиторий с выполненым тестовым заданием.
+## Getting Started
 
-Тетсовое задание: 
-Написать TSX компонент (props, state, arrow function, promise), который отображает часы со стрелками, берет точное время из какого-нибудь API
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `src/index.tsx`. The page auto-updates as you edit the file.
